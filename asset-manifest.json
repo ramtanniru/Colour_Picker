@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramtanniru/React-3/static/css/main.db798329.css",
+    "main.js": "/ramtanniru/React-3/static/js/main.6f5ba5de.js",
+    "static/js/787.b842ecb7.chunk.js": "/ramtanniru/React-3/static/js/787.b842ecb7.chunk.js",
+    "index.html": "/ramtanniru/React-3/index.html",
+    "main.db798329.css.map": "/ramtanniru/React-3/static/css/main.db798329.css.map",
+    "main.6f5ba5de.js.map": "/ramtanniru/React-3/static/js/main.6f5ba5de.js.map",
+    "787.b842ecb7.chunk.js.map": "/ramtanniru/React-3/static/js/787.b842ecb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.6f5ba5de.js"
+  ]
+}
